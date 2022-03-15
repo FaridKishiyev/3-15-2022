@@ -1,0 +1,14 @@
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\bin\Debug\netcoreapp3.1\elayazmisamaxi.exe
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\bin\Debug\netcoreapp3.1\elayazmisamaxi.deps.json
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\bin\Debug\netcoreapp3.1\elayazmisamaxi.runtimeconfig.json
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\bin\Debug\netcoreapp3.1\elayazmisamaxi.runtimeconfig.dev.json
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\bin\Debug\netcoreapp3.1\elayazmisamaxi.dll
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\bin\Debug\netcoreapp3.1\elayazmisamaxi.pdb
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.csproj.AssemblyReference.cache
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.AssemblyInfoInputs.cache
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.AssemblyInfo.cs
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.csproj.CoreCompileInputs.cache
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.dll
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.pdb
+C:\Users\tu7nvyvez\source\repos\elayazmisamaxi\elayazmisamaxi\obj\Debug\netcoreapp3.1\elayazmisamaxi.genruntimeconfig.cache
